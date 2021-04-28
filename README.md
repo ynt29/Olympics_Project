@@ -29,7 +29,7 @@ I'm a new Political Science graduates who change interest and field of works int
 * Python with ggplot library from Dataset Visualization
 ----------------------------------------------
 ### Dataset
-I use dataset from this kaggle https://www.kaggle.com/heesoo37/olympic-history-data-a-thorough-analysis (Thanks for this :) )\
+I use dataset from this kaggle https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results (Thanks for this :) )\
 In this project, however, there is a difference between the project and original data is new attribute 'continent' in which I add for additional analysis in Continental level
 
 ----------------------------------------------
