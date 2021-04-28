@@ -1,0 +1,231 @@
+NOC,region,notes,continent
+AFG,Afghanistan,,Asia
+AHO,Curacao,Netherlands Antilles,America
+ALB,Albania,,Europe
+ALG,Algeria,,Africa
+AND,Andorra,,Europe
+ANG,Angola,,Africa
+ANT,Antigua,Antigua and Barbuda,America
+ANZ,Australia,Australasia,Oceania
+ARG,Argentina,,America
+ARM,Armenia,,Europe
+ARU,Aruba,,America
+ASA,American Samoa,,Oceania
+AUS,Australia,,Oceania
+AUT,Austria,,Europe
+AZE,Azerbaijan,,Europe
+BAH,Bahamas,,America
+BAN,Bangladesh,,Asia
+BAR,Barbados,,America
+BDI,Burundi,,Africa
+BEL,Belgium,,Europe
+BEN,Benin,,Africa
+BER,Bermuda,,America
+BHU,Bhutan,,Asia
+BIH,Bosnia and Herzegovina,,Europe
+BIZ,Belize,,America
+BLR,Belarus,,Europe
+BOH,Czech Republic,Bohemia,Europe
+BOL,Bolivia,,America
+BOT,Botswana,,Africa
+BRA,Brazil,,America
+BRN,Bahrain,,Asia
+BRU,Brunei,,Asia
+BUL,Bulgaria,,Europe
+BUR,Burkina Faso,,Africa
+CAF,Central African Republic,,Africa
+CAM,Cambodia,,Asia
+CAN,Canada,,America
+CAY,Cayman Islands,,America
+CGO,Republic of Congo,,Africa
+CHA,Chad,,Africa
+CHI,Chile,,America
+CHN,China,,Asia
+CIV,Ivory Coast,,Africa
+CMR,Cameroon,,Africa
+COD,Democratic Republic of the Congo,,Africa
+COK,Cook Islands,,Oceania
+COL,Colombia,,America
+COM,Comoros,,Africa
+CPV,Cape Verde,,Africa
+CRC,Costa Rica,,America
+CRO,Croatia,,Europe
+CRT,Greece,Crete,Europe
+CUB,Cuba,,America
+CYP,Cyprus,,Europe
+CZE,Czech Republic,,Europe
+DEN,Denmark,,Europe
+DJI,Djibouti,,Africa
+DMA,Dominica,,America
+DOM,Dominican Republic,,America
+ECU,Ecuador,,America
+EGY,Egypt,,Africa
+ERI,Eritrea,,Africa
+ESA,El Salvador,,America
+ESP,Spain,,Europe
+EST,Estonia,,Europe
+ETH,Ethiopia,,Africa
+EUN,Russia,,Europe
+FIJ,Fiji,,Oceania
+FIN,Finland,,Europe
+FRA,France,,Europe
+FRG,Germany,,Europe
+FSM,Micronesia,,Oceania
+GAB,Gabon,,Africa
+GAM,Gambia,,Africa
+GBR,UK,,Europe
+GBS,Guinea-Bissau,,Africa
+GDR,Germany,,Europe
+GEO,Georgia,,Europe
+GEQ,Equatorial Guinea,,Africa
+GER,Germany,,Europe
+GHA,Ghana,,Africa
+GRE,Greece,,Europe
+GRN,Grenada,,America
+GUA,Guatemala,,America
+GUI,Guinea,,Africa
+GUM,Guam,,Oceania
+GUY,Guyana,,America
+HAI,Haiti,,America
+HKG,China,Hong Kong,Asia
+HON,Honduras,,America
+HUN,Hungary,,Europe
+INA,Indonesia,,Asia
+IND,India,,Asia
+IOA,Individual Olympic Athletes,Individual Olympic Athletes,IOA
+IRI,Iran,,Asia
+IRL,Ireland,,Europe
+IRQ,Iraq,,Asia
+ISL,Iceland,,Europe
+ISR,Israel,,Europe
+ISV,"Virgin Islands, US",Virgin Islands,America
+ITA,Italy,,Europe
+IVB,"Virgin Islands, British",,America
+JAM,Jamaica,,America
+JOR,Jordan,,Asia
+JPN,Japan,,Asia
+KAZ,Kazakhstan,,Asia
+KEN,Kenya,,Africa
+KGZ,Kyrgyzstan,,Asia
+KIR,Kiribati,,Oceania
+KOR,South Korea,,Asia
+KOS,Kosovo,,Europe
+KSA,Saudi Arabia,,Asia
+KUW,Kuwait,,Asia
+LAO,Laos,,Asia
+LAT,Latvia,,Europe
+LBA,Libya,,Africa
+LBR,Liberia,,Africa
+LCA,Saint Lucia,,America
+LES,Lesotho,,Africa
+LIB,Lebanon,,Asia
+LIE,Liechtenstein,,Europe
+LTU,Lithuania,,Europe
+LUX,Luxembourg,,Europe
+MAD,Madagascar,,Africa
+MAL,Malaysia,,Asia
+MAR,Morocco,,Africa
+MAS,Malaysia,,Asia
+MAW,Malawi,,Africa
+MDA,Moldova,,Europe
+MDV,Maldives,,Asia
+MEX,Mexico,,America
+MGL,Mongolia,,Asia
+MHL,Marshall Islands,,Oceania
+MKD,Macedonia,,Europe
+MLI,Mali,,Africa
+MLT,Malta,,Europe
+MNE,Montenegro,,Europe
+MON,Monaco,,Europe
+MOZ,Mozambique,,Africa
+MRI,Mauritius,,Africa
+MTN,Mauritania,,Africa
+MYA,Myanmar,,Asia
+NAM,Namibia,,Africa
+NBO,Malaysia,North Borneo,Asia
+NCA,Nicaragua,,America
+NED,Netherlands,,Europe
+NEP,Nepal,,Asia
+NFL,Canada,Newfoundland,America
+NGR,Nigeria,,Africa
+NIG,Niger,,Africa
+NOR,Norway,,Europe
+NRU,Nauru,,Oceania
+NZL,New Zealand,,Oceania
+OMA,Oman,,Asia
+PAK,Pakistan,,Asia
+PAN,Panama,,America
+PAR,Paraguay,,America
+PER,Peru,,America
+PHI,Philippines,,Asia
+PLE,Palestine,,Asia
+PLW,Palau,,Oceania
+PNG,Papua New Guinea,,Oceania
+POL,Poland,,Europe
+POR,Portugal,,Europe
+PRK,North Korea,,Asia
+PUR,Puerto Rico,,America
+QAT,Qatar,,Asia
+RHO,Zimbabwe,,Africa
+ROT,NA,Refugee Olympic Team,Refugee
+ROU,Romania,,Europe
+RSA,South Africa,,Africa
+RUS,Russia,,Europe
+RWA,Rwanda,,Africa
+SAA,Germany,,Europe
+SAM,Samoa,,Oceania
+SCG,Serbia,Serbia and Montenegro,Europe
+SEN,Senegal,,Africa
+SEY,Seychelles,,Africa
+SIN,Singapore,,Asia
+SKN,Saint Kitts,Turks and Caicos Islands,America
+SLE,Sierra Leone,,Africa
+SLO,Slovenia,,Europe
+SMR,San Marino,,Europe
+SOL,Solomon Islands,,Oceania
+SOM,Somalia,,Africa
+SRB,Serbia,,Europe
+SRI,Sri Lanka,,Asia
+SSD,South Sudan,,Africa
+STP,Sao Tome and Principe,,Africa
+SUD,Sudan,,Africa
+SUI,Switzerland,,Europe
+SUR,Suriname,,America
+SVK,Slovakia,,Europe
+SWE,Sweden,,Europe
+SWZ,Swaziland,,Africa
+SYR,Syria,,Asia
+TAN,Tanzania,,Africa
+TCH,Czech Republic,,Europe
+TGA,Tonga,,Oceania
+THA,Thailand,,Asia
+TJK,Tajikistan,,Asia
+TKM,Turkmenistan,,Asia
+TLS,Timor-Leste,,Asia
+TOG,Togo,,Africa
+TPE,Taiwan,,Asia
+TTO,Trinidad,Trinidad and Tobago,America
+TUN,Tunisia,,Africa
+TUR,Turkey,,Europe
+TUV,NA,Tuvalu,Oceania
+UAE,United Arab Emirates,,Asia
+UAR,Syria,United Arab Republic,Asia
+UGA,Uganda,,Africa
+UKR,Ukraine,,Europe
+UNK,NA,Unknown,Unknown
+URS,Russia,,Europe
+URU,Uruguay,,America
+USA,USA,,America
+UZB,Uzbekistan,,Asia
+VAN,Vanuatu,,Oceania
+VEN,Venezuela,,America
+VIE,Vietnam,,Asia
+VIN,Saint Vincent,,America
+VNM,Vietnam,,Asia
+WIF,Trinidad,West Indies Federation,America
+YAR,Yemen,North Yemen,Asia
+YEM,Yemen,,Asia
+YMD,Yemen,South Yemen,Asia
+YUG,Serbia,Yugoslavia,Europe
+ZAM,Zambia,,Africa
+ZIM,Zimbabwe,,Africa
