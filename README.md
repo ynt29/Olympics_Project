@@ -5,13 +5,21 @@
 # Olympics Project
 ----------------------------------------------
 ### Table of Contents
-* About Project
-* About Contributor
-* Tools
-* Dataset
-* <a href="#Report of Exploration">Report of Exploration</a>
-<div id="Report of Exploration"> 
+<a href="#About Project">About Project</a>
+<div id="About Project"> 
 </div>
+<a href="#About Contributor">About Contributor</a>
+<div id="About Contributor"> 
+</div>
+<a href="#Tools">Tools</a>
+<div id="Tools"> 
+</div>
+<a href="#Dataset">Dataset</a>
+<div id="Dataset"> 
+</div>
+
+<a href="#Report of Exploration">Report of Exploration</a>
+
 
 ----------------------------------------------
 ### About Project
@@ -32,7 +40,7 @@ I use dataset from this kaggle https://www.kaggle.com/heesoo37/120-years-of-olym
 In this project, however, there is a difference between the project and original data is new attribute 'continent' in which I add for additional analysis in Continental level
 
 ----------------------------------------------
-### Report of Exploration
+<div id="Report of Exploration">Report of Exploration</div>
 This Project will analyze and report in 3 levels as follows;
 
 ###### 1. International Level 
