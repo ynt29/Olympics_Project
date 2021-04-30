@@ -2,7 +2,7 @@
   <img width="240" height="100" src="https://github.com/ynt29/Olympics_Project/blob/main/data/olympic_rings.png">
 </p>
 
-# Olympics Medal Project
+# Olympics Project
 ----------------------------------------------
 ### Table of Contents
 * About Project
