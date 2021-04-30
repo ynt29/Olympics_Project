@@ -5,42 +5,34 @@
 # Olympics Project
 ----------------------------------------------
 ### Table of Contents
-<a href="#About Project">About Project</a>
-<div id="About Project"> 
-</div>
-<a href="#About Contributor">About Contributor</a>
-<div id="About Contributor"> 
-</div>
-<a href="#Tools">Tools</a>
-<div id="Tools"> 
-</div>
-<a href="#Dataset">Dataset</a>
-<div id="Dataset"> 
-</div>
-
+<a href="#About Project">About Project</a>\
+<a href="#About Contributor">About Contributor</a>\
+<a href="#Tools">Tools</a>\
+<a href="#Dataset">Dataset</a>\
 <a href="#Report of Exploration">Report of Exploration</a>
 
 
 ----------------------------------------------
-### About Project
+<div id="About Project"><h3>About Project</h3></div>
 The Olympics Medal Project is exploratory analysis of the Summer and Winter Olympics participation, medalists and sports from the first to the latest games. In which for this project mostly emphasize at the Summer games because my country, Thailand, is a tropical country, participated and succeeded at that.
 
 ----------------------------------------------
-### About Contributor
+<div id="About Contributor"><h3>About Contributor </div>
 Hi, I'm Yossakorn Napeang "Tie".  \
 I'm a new Political Science graduates who change interest and field of works into Data Science field.
 
 ----------------------------------------------
-### Tools
+<div id="Tools"><h3>Tools</h3> </div>
 * PowerBI Desktop for create a new attribute (continent)
 * Python for Data Cleaning and Visualization
 ----------------------------------------------
-### Dataset
+<div id="Dataset"><h3>Dataset</h3> </div>
 I use dataset from this kaggle https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results (Thanks for this :) )\
 In this project, however, there is a difference between the project and original data is new attribute 'continent' in which I add for additional analysis in Continental level
 
 ----------------------------------------------
-<div id="Report of Exploration">Report of Exploration</div>
+<div id="Report of Exploration"><h3>Report of Exploration</h3></div>
+
 This Project will analyze and report in 3 levels as follows;
 
 ###### 1. International Level 
