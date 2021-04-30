@@ -17,9 +17,8 @@
 The Olympics Medal Project is exploratory analysis of the Summer and Winter Olympics participation, medalists and sports from the first to the latest games. In which for this project mostly emphasize at the Summer games because my country, Thailand, is a tropical country, participated and succeeded at that.
 
 ----------------------------------------------
-<div id="About Contributor"><h3>About Contributor </div>
-Hi, I'm Yossakorn Napeang "Tie".  \
-I'm a new Political Science graduates who change interest and field of works into Data Science field.
+<div id="About Contributor"><h3>About Contributor</h3></div>
+Hi, I'm Yossakorn Napeang "Tie". I'm a new Political Science graduates who change interest and field of works into Data Science field.
 
 ----------------------------------------------
 <div id="Tools"><h3>Tools</h3> </div>
@@ -30,7 +29,7 @@ I'm a new Political Science graduates who change interest and field of works int
 
 ----------------------------------------------
 <div id="Dataset"><h3>Dataset</h3> </div>
-I use dataset from this kaggle https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results (Thanks for this :) )\
+I use dataset from this kaggle https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results (Thanks for this :) )
 In this project, however, there is a difference between the project and original data is new attribute 'continent' in which I add for additional analysis in Continental level
 
 ----------------------------------------------
