@@ -23,8 +23,11 @@ I'm a new Political Science graduates who change interest and field of works int
 
 ----------------------------------------------
 <div id="Tools"><h3>Tools</h3> </div>
+
 * PowerBI Desktop for create a new attribute (continent)
+
 * Python for Data Cleaning and Visualization
+
 ----------------------------------------------
 <div id="Dataset"><h3>Dataset</h3> </div>
 I use dataset from this kaggle https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results (Thanks for this :) )\
