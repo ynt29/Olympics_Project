@@ -9,7 +9,10 @@
 * About Contributor
 * Tools
 * Dataset
-* Report of Exploration
+* <a href="#Report of Exploration">Report of Exploration</a>
+<div id="Report of Exploration"> 
+</div>
+
 ----------------------------------------------
 ### About Project
 The Olympics Medal Project is exploratory analysis of the Summer and Winter Olympics participation, medalists and sports from the first to the latest games. In which for this project mostly emphasize at the Summer games because my country, Thailand, is a tropical country, participated and succeeded at that.
@@ -55,31 +58,3 @@ This Project will analyze and report in 3 levels as follows;
 
 
 ----------------------------------------------
-<a href="#test">test</a>
-s\
-s\
-s\
-s\
-s\
-s\
-s\
-s\
-s\
-s\
-ss\
-s\
-s\
-s\
-s\
-s\
-s\
-s\
-s\
-s\
-s\
-s\
-<div id="test"> 
-
-testsetsetsetset
-
- </div>
