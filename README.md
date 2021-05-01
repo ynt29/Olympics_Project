@@ -14,26 +14,7 @@
 
 ----------------------------------------------
 <div id="About Project"><h3>About Project</h3></div>
-The Olympics Medal Project is exploratory analysis of the Summer and Winter Olympics participation, medalists and sports from the first to the latest games. In which for this project mostly emphasize at the Summer games because my country, Thailand, is a tropical country, participated and succeeded at that.
-
-----------------------------------------------
-<div id="About Contributor"><h3>About Contributor</h3></div>
-Hi, I'm Yossakorn Napeang "Tie". I'm a new Political Science graduates who change interest and field of works into Data Science field.
-
-----------------------------------------------
-<div id="Tools"><h3>Tools</h3> </div>
-
-* PowerBI Desktop for create a new attribute (continent)
-
-* Python for Data Cleaning and Visualization
-
-----------------------------------------------
-<div id="Dataset"><h3>Dataset</h3> </div>
-I use dataset from this kaggle https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results (Thanks for this :) )
-In this project, however, there is a difference between the project and original data is new attribute 'continent' in which I add for additional analysis in Continental level
-
-----------------------------------------------
-<div id="Report of Exploration"><h3>Report of Exploration</h3></div>
+The Olympics Medal Project is exploratory analysis of the Summer and Winter Olympics participation, medalists and sports from the first to the latest games. In which for this project mostly emphasize at the Summer games because my country, Thailand, is a tropical country, participated and succeeded at that. 
 
 This Project will analyze and report in 3 levels as follows;
 
@@ -55,8 +36,31 @@ This Project will analyze and report in 3 levels as follows;
 ###### 3. Country Level (Thailand)
 * Number of medal at the Summer Games by sport.
 * Number of gold medal at the Summer Games by sport.
+----------------------------------------------
+<div id="About Contributor"><h3>About Contributor</h3></div>
+Hi, I'm Yossakorn Napeang "Tie". I'm a new Political Science graduates who change interest and field of works into Data Science field.
 
+----------------------------------------------
+<div id="Tools"><h3>Tools</h3> </div>
 
+* PowerBI Desktop for create a new attribute (continent)
 
+* Python for Data Cleaning and Visualization
+
+----------------------------------------------
+<div id="Dataset"><h3>Dataset</h3> </div>
+I use dataset from this kaggle https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results (Thanks for this :) )
+In this project, however, there is a difference between the project and original data is new attribute 'continent' in which I add for additional analysis in Continental level
+
+----------------------------------------------
+<div id="Report of Exploration"><h3>Report of Exploration</h3></div>
+
+<p align="center">
+  <img src="https://github.com/ynt29/Olympics_Project/blob/main/report_image/rp_overall.jpg">
+</p>
+
+You can see additional analysis from olympics_pro.ipynb file.
+
+Thanks for your interest :D
 
 ----------------------------------------------
